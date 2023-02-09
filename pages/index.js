@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="MemphisThe§pecialist™ - Welcome to my test site!" />
+        <Header title="MemphisThe§pecialist™" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Welcome to my test site!
         </p>
       </main>
 
